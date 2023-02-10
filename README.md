@@ -14,7 +14,13 @@ Day_5,6,(Wednesday,Thusday)
 Havent done due to a very busy scedule
 
 
-Day_7(Friday)
+Day_7(Friday)(Submisstion Date)
+
 Tried a login page but had issuses in making it connect to images so had to leave it halfway
+
+
 Tried to fix buges 
+
+
+
 Tried my best but had not much changes
